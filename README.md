@@ -1,2 +1,2 @@
 # Concurrent_labs
-C# Concurrent labs spbstu.
+My C# Concurrent labs implementation spbstu.
